@@ -44,7 +44,7 @@ self.__precacheManifest = [
     "url": "/mern2gh/static/media/brown.36169e0e.png"
   },
   {
-    "revision": "67933a4aebcb2a2c4a72a6b380d68b2f",
+    "revision": "f5faadb3a11b355f3351bb7461f5d30d",
     "url": "/mern2gh/index.html"
   }
 ];
