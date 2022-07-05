@@ -1,21 +1,16 @@
 {
   "main.css": "/mern2gh/static/css/main.96a0f45e.chunk.css",
-  "main.js": "/mern2gh/static/js/main.0c52df6d.chunk.js",
-  "main.js.map": "/mern2gh/static/js/main.0c52df6d.chunk.js.map",
+  "main.js": "/mern2gh/static/js/main.25ec55e1.chunk.js",
+  "main.js.map": "/mern2gh/static/js/main.25ec55e1.chunk.js.map",
   "runtime~main.js": "/mern2gh/static/js/runtime~main.96d9c1f4.js",
   "runtime~main.js.map": "/mern2gh/static/js/runtime~main.96d9c1f4.js.map",
   "static/css/2.2f85424a.chunk.css": "/mern2gh/static/css/2.2f85424a.chunk.css",
-  "static/js/2.f670bc3a.chunk.js": "/mern2gh/static/js/2.f670bc3a.chunk.js",
-  "static/js/2.f670bc3a.chunk.js.map": "/mern2gh/static/js/2.f670bc3a.chunk.js.map",
+  "static/js/2.623e1f10.chunk.js": "/mern2gh/static/js/2.623e1f10.chunk.js",
+  "static/js/2.623e1f10.chunk.js.map": "/mern2gh/static/js/2.623e1f10.chunk.js.map",
   "index.html": "/mern2gh/index.html",
-  "precache-manifest.81295e6e7964abd2a52a379f0767fa12.js": "/mern2gh/precache-manifest.81295e6e7964abd2a52a379f0767fa12.js",
+  "precache-manifest.0d6e5a699b1cfe39b820709dda8728e2.js": "/mern2gh/precache-manifest.0d6e5a699b1cfe39b820709dda8728e2.js",
   "service-worker.js": "/mern2gh/service-worker.js",
   "static/css/2.2f85424a.chunk.css.map": "/mern2gh/static/css/2.2f85424a.chunk.css.map",
   "static/css/main.96a0f45e.chunk.css.map": "/mern2gh/static/css/main.96a0f45e.chunk.css.map",
-  "static/media/brown.png": "/mern2gh/static/media/brown.36169e0e.png",
-  "static/media/cabinet-transparent.png": "/mern2gh/static/media/cabinet-transparent.7b8dc0e0.png",
-  "static/media/creativeDesignScreen.png": "/mern2gh/static/media/creativeDesignScreen.f4c1651b.png",
-  "static/media/png-tree-bulb.png": "/mern2gh/static/media/png-tree-bulb.a49b22b8.png",
-  "static/media/tools.jpg": "/mern2gh/static/media/tools.e1410516.jpg",
-  "static/media/wood-round.jpg": "/mern2gh/static/media/wood-round.4fc38738.jpg"
+  "static/media/png-tree-bulb.png": "/mern2gh/static/media/png-tree-bulb.a49b22b8.png"
 }
